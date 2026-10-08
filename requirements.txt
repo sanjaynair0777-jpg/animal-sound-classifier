@@ -1,0 +1,10 @@
+gradio
+librosa
+soundfile
+numpy
+pandas
+matplotlib
+scikit-learn
+joblib
+torch
+torchvggish

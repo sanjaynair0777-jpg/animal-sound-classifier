@@ -1,0 +1,1 @@
+Put classes.json, logreg_spectral.joblib, logreg_vggish.joblib and cnn_mel.pt here (created by the export cell in your notebook).
